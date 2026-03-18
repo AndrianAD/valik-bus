@@ -56,10 +56,9 @@
     }
   ],
   "stats": [
-    { "value": 5, "suffix": "+", "label": "Років досвіду" },
-    { "value": 50000, "suffix": "+", "label": "Км пройдено" },
-    { "value": 3000, "suffix": "+", "label": "Задоволених клієнтів" },
-    { "value": 4, "suffix": "", "label": "Напрямки" }
+    { "value": 10, "suffix": "+", "label": "Років досвіду" },
+    { "value": 1000000, "suffix": "+", "label": "Км пройдено" },
+    { "value": 12, "suffix": "", "label": "Напрямків" }
   ],
   "news": [
     {
