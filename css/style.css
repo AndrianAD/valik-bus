@@ -247,7 +247,7 @@ a {
 .hero-bg {
     position: absolute;
     inset: 0;
-    background: url('../img/vito-hero.jpg') center/cover no-repeat;
+    background: url('../img/vito-hero.png') center/cover no-repeat;
     transform: scale(1.05);
     transition: transform 10s ease;
 }
